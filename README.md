@@ -13,4 +13,4 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-You can access all the deliveries. Each one is in its directory and in the main directory you have the exercises.
+You can access all the deliveries. Each directory contain the exercise and its solution.
